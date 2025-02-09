@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reacjs_digital_clock/static/css/main.9036f162.css",
+    "main.css": "/reacjs_digital_clock/static/css/main.bcdc8822.css",
     "main.js": "/reacjs_digital_clock/static/js/main.ebb65c54.js",
     "static/js/453.69feb49b.chunk.js": "/reacjs_digital_clock/static/js/453.69feb49b.chunk.js",
     "index.html": "/reacjs_digital_clock/index.html",
-    "main.9036f162.css.map": "/reacjs_digital_clock/static/css/main.9036f162.css.map",
+    "main.bcdc8822.css.map": "/reacjs_digital_clock/static/css/main.bcdc8822.css.map",
     "main.ebb65c54.js.map": "/reacjs_digital_clock/static/js/main.ebb65c54.js.map",
     "453.69feb49b.chunk.js.map": "/reacjs_digital_clock/static/js/453.69feb49b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9036f162.css",
+    "static/css/main.bcdc8822.css",
     "static/js/main.ebb65c54.js"
   ]
 }
