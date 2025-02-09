@@ -1,0 +1,41 @@
+/* src/Clock.css */
+
+.font-link {
+    font-family: 'Inter', sans-serif;
+}
+
+
+.clock-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* Make it full height */
+    background-color: #ffe0b2;
+    /* Light orange background */
+    padding: 0 20px;
+}
+
+
+.clock-text {
+    font-size: 3em;
+    color: antiquewhite;    text-align: center;
+    padding: 20px;
+    border: 5px solid #e65100;
+    /* Dark orange border */
+    border-radius: 10px;
+    background-color: #ff9800;
+    /* Orange background for the text */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    /* Slightly darker shadow */
+}
+
+
+/* Responsive design */
+@media (max-width: 600px) {
+    .clock-text {
+        font-size: 2em;
+        /* Smaller font size for smaller screens */
+        padding: 10px;
+    }
+}
