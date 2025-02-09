@@ -6,10 +6,12 @@
 
 
 .clock-container {
+    box-sizing: border-box;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    width: 100vw;
     /* Make it full height */
     background-color: #ffe0b2;
     /* Light orange background */
