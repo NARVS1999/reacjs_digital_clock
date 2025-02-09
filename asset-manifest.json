@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9036f162.css",
-    "main.js": "/static/js/main.924a695c.js",
-    "static/js/453.69feb49b.chunk.js": "/static/js/453.69feb49b.chunk.js",
-    "index.html": "/index.html",
-    "main.9036f162.css.map": "/static/css/main.9036f162.css.map",
-    "main.924a695c.js.map": "/static/js/main.924a695c.js.map",
-    "453.69feb49b.chunk.js.map": "/static/js/453.69feb49b.chunk.js.map"
+    "main.css": "/reacjs_digital_clock/static/css/main.9036f162.css",
+    "main.js": "/reacjs_digital_clock/static/js/main.ebb65c54.js",
+    "static/js/453.69feb49b.chunk.js": "/reacjs_digital_clock/static/js/453.69feb49b.chunk.js",
+    "index.html": "/reacjs_digital_clock/index.html",
+    "main.9036f162.css.map": "/reacjs_digital_clock/static/css/main.9036f162.css.map",
+    "main.ebb65c54.js.map": "/reacjs_digital_clock/static/js/main.ebb65c54.js.map",
+    "453.69feb49b.chunk.js.map": "/reacjs_digital_clock/static/js/453.69feb49b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9036f162.css",
-    "static/js/main.924a695c.js"
+    "static/js/main.ebb65c54.js"
   ]
 }
